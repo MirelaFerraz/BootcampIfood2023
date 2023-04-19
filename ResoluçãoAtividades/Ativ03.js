@@ -9,7 +9,7 @@ Código Condição de pagamento:
 */
 
 const valor = 100;
-const formaPagamento = 4;
+const formaPagamento = 1;
 
 if (formaPagamento === 1){
   console.log(valor - 0.1 * valor); 
